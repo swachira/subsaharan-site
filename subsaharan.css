@@ -23,16 +23,16 @@ body {
 }
 .tag-bg {
   background: #fff;
-  height: 50px;
+  width: 30%;
   margin: 15px 0 90px 0;
   padding-left: 15%;
 }
 .tagline-img {
-  height: 60px;
 }
 .tagline-img img {
-  height: 30px;
+  height: auto;
   margin: 10px;
+  max-width: 93%;
 }
 .tagline {
   height: 60px;
